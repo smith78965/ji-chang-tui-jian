@@ -34,17 +34,17 @@
 说到科学上网，SSR机场和Trojan机场是两种常见的协议类型，了解它们的区别能帮你更好地挑选服务。SSR机场，全称ShadowsocksR，是Shadowsocks的升级版，加密性能更强，抗干扰能力突出，尤其适合复杂网络环境下的稳定连接，比如NiceDuck机场就主打SSR协议，晚高峰依然流畅。不过，SSR在高负载下可能会略显吃力。而Trojan机场则是一种新兴协议，伪装性极强，流量特征接近HTTPS，穿透能力更胜一筹，像Bitz Net机场就全线采用Trojan，解锁流媒体和AI工具效果拔群。选择时，如果你更看重隐蔽性，Trojan是首选；如果追求兼容性和稳定性，SSR机场可能更适合。
 
 **中转机场与IEPL专线机场的优势解析**  
-再聊聊中转机场和IEPL专线机场，这两个关键词在机场选择中也至关重要。中转机场通过多节点转发优化路径，延迟较低且性价比高，比如可乐云机场就以隧道中转技术保障高峰期稳定，适合预算有限的用户。而IEPL专线机场则是高端玩家的心头好，它提供点对点的专用线路，带宽独享，速度和稳定性都达到极致，像稳定机场主打IEPL专线，8K视频秒开，跨境办公无压力。如果你对网络质量要求极高，IEPL专线机场绝对值得投资；如果是日常使用，中转机场已经足够应付。
+再聊聊中转机场和IEPL专线机场，这两个关键词在机场选择中也至关重要。中转机场通过多节点转发优化路径，延迟较低且性价比高，比如可乐云机场就以隧道中转技术保障高峰期稳定，适合预算有限的用户。而IEPL专线机场则是高端玩家的心头好，它提供点对点的专用线路，带宽独享，速度和稳定性都达到极致，像[稳定机场](https://smith78965.github.io/stable-airport/)主打IEPL专线，8K视频秒开，跨境办公无压力。如果你对网络质量要求极高，IEPL专线机场绝对值得购买；如果是日常使用，中转机场已经足够应付。
 
 ![性价比机场推荐图片2](https://github.com/user-attachments/assets/a623c39a-f945-4957-9888-b53c18f8f7e5)
 
-**客户端推荐**
-**Windows:** Clsah Verge / Clash for Windows / v2rayN / WinXray / NekoRay / sing-box
-**macOS: **Clsah Verge / Clash for Windows / ClashX / ClashX Pro / Stash / V2rayU / Quantumult X / sing-box
-**iOS: **Shadowrocket / Quantumult_ / Quantumult X / Stash / Potatso Lite / sing-box
-**Android:** v2rayNG / Clash for Android / NekoBox for Android / sing-box / Surfboard
-**Linux:** Clsah Verge / Clash for Windows / NekoRay / sing-box
-**路由器: **OpenClash / PassWall2 / ShadowsocksR Plus+
+**机场客户端订阅大全**
+- **Windows:** Clsah Verge / Clash for Windows / v2rayN / WinXray / NekoRay / sing-box
+- **macOS:** Clsah Verge / Clash for Windows / ClashX / ClashX Pro / Stash / V2rayU / Quantumult X / sing-box
+- **iOS:** Shadowrocket / Quantumult_ / Quantumult X / Stash / Potatso Lite / sing-box
+- **Android:** v2rayNG / Clash for Android / NekoBox for Android / sing-box / Surfboard
+- **Linux:** Clsah Verge / Clash for Windows / NekoRay / sing-box
+- **路由器:** OpenClash / PassWall2 / ShadowsocksR Plus+
 ---
 
 ## 🚀 高速稳定机场推荐：老牌IEPL专线服务商
