@@ -38,7 +38,13 @@
 
 ![性价比机场推荐图片2](https://github.com/user-attachments/assets/a623c39a-f945-4957-9888-b53c18f8f7e5)
 
-
+**客户端推荐**
+**Windows:** Clsah Verge / Clash for Windows / v2rayN / WinXray / NekoRay / sing-box
+**macOS: **Clsah Verge / Clash for Windows / ClashX / ClashX Pro / Stash / V2rayU / Quantumult X / sing-box
+**iOS: **Shadowrocket / Quantumult_ / Quantumult X / Stash / Potatso Lite / sing-box
+**Android:** v2rayNG / Clash for Android / NekoBox for Android / sing-box / Surfboard
+**Linux:** Clsah Verge / Clash for Windows / NekoRay / sing-box
+**路由器: **OpenClash / PassWall2 / ShadowsocksR Plus+
 ---
 
 ## 🚀 高速稳定机场推荐：老牌IEPL专线服务商
